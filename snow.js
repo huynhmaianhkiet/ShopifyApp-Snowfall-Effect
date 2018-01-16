@@ -1,3 +1,11 @@
+/*****************************
+Huynh Mai Anh Kiet
+Phone: +84 905567654
+Email: HuynhMaiAnhKiet@Gmail.Com
+Facebook: https://www.facebook.com/huynhmaianhkiet
+Website: wWw.MangBinhDinh.Vn - wWw.ShopifyTips.Com
+******************************/
+
 if(typeof jQuery == 'undefined' || typeof jQuery.fn.on == 'undefined') {
 	
 /*! jQuery v1.12.0 | (c) jQuery Foundation | jquery.org/license */
